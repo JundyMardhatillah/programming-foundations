@@ -10,3 +10,4 @@ def make_omelette():
     return omelette
 
 omelette1 = make_omelette()
+omelette2 = make_omelette()
