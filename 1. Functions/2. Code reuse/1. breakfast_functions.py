@@ -7,3 +7,4 @@ def make_omelette():
     print('Flipping it!')
     print('Cooking the other side')
     omelette = 'a tasty omelette'
+    return omelette
