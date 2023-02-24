@@ -10,7 +10,7 @@ def mix_and_cook():
 
 def make_omelette():
     mix_and_cook()
-    omelette = 'a tasty omelette'
+    omelette = 'a {} omelette'
     return omelette
 
 def make_pancake():
