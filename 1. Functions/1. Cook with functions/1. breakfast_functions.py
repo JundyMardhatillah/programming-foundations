@@ -9,5 +9,9 @@ def make_omelette():
     omelette = 'a tasty omelette'
     return omelette
 
+# make two omelettes
 omelette1 = make_omelette()
 omelette2 = make_omelette()
+
+print(omelette1)
+print(omelette2)
