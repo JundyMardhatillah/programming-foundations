@@ -22,3 +22,7 @@ def fancy_omelette(*ingredients):
     mix_and_cook()
     omelette = 'a fancy omelette with {} ingredients'.format(len(ingredients))
     return omelette
+
+# make some regular omelettes
+print(make_omelette('bacon'))
+print(make_omelette('spam'))
