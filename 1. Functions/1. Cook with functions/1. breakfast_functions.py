@@ -8,3 +8,5 @@ def make_omelette():
     print('Cooking the other side')
     omelette = 'a tasty omelette'
     return omelette
+
+omelette1 = make_omelette()
