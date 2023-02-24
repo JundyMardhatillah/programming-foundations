@@ -8,7 +8,7 @@ def mix_and_cook():
     print('Flipping it!')
     print('Cooking the other side')
 
-def make_omelette():
+def make_omelette(ingredient):
     mix_and_cook()
     omelette = 'a {} omelette'
     return omelette
