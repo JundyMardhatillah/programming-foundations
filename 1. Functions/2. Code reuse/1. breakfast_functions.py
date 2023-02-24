@@ -16,3 +16,4 @@ def make_pancake():
     print('Flipping it!')
     print('Cooking the other side')
     pancake = 'a delicious pancake'
+    return pancake
