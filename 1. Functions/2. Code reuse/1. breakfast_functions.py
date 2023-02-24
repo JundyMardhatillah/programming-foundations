@@ -17,3 +17,7 @@ def make_pancake():
     mix_and_cook()
     pancake = 'a delicious pancake'
     return pancake
+
+# make some breakfast
+print(make_omelette())
+print(make_pancake())
