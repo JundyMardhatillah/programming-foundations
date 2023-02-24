@@ -6,3 +6,4 @@ def make_omelette():
     print('Cooking the first side')
     print('Flipping it!')
     print('Cooking the other side')
+    omelette = 'a tasty omelette'
