@@ -20,3 +20,4 @@ def make_pancake():
 
 def fancy_omelette(*ingredients):
     mix_and_cook()
+    omelette = 'a fancy omelette with {} ingredients'
