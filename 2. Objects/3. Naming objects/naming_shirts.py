@@ -31,3 +31,9 @@ print(red is crimson)
 
 # create a second shirt to be named crimson
 crimson = shirt()
+
+# examine both shirts
+print(id(red))
+print(id(crimson))
+print(crimson.clean)
+print(red.clean)
