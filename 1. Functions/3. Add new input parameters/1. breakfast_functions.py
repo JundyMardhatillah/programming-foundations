@@ -26,3 +26,6 @@ def fancy_omelette(*ingredients):
 # make some regular omelettes
 print(make_omelette('bacon'))
 print(make_omelette('spam'))
+
+# make Olivia's fancy omelette
+print(fancy_omelette('sausage', 'onion', 'pepper', 'spinach', 'mushroom', 'tomato', 'goat cheese'))
