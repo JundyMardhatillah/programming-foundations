@@ -7,3 +7,6 @@ class shirt:
 
     def make_dirty(self):
         self.clean = False
+
+    def make_clean(self):
+        self.clean = True
