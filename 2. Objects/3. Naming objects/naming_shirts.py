@@ -25,3 +25,6 @@ print(crimson.clean)
 red.make_dirty()
 print(red.clean)
 print(crimson.clean)
+
+# check that red and crimson are the same shirt
+print(red is crimson)
