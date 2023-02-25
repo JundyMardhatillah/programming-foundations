@@ -12,7 +12,7 @@ def mix_and_cook():
 
 def make_omelette():
     mix_and_cook()
-    omelette = 'a {} omelette'.format(ingredient)
+    omelette = 'a {} omelette'.format(cheese)
     return omelette
 
 def make_pancake():
