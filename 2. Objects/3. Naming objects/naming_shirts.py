@@ -10,3 +10,7 @@ class shirt:
 
     def make_clean(self):
         self.clean = True
+
+# create one shirt with two names
+red = shirt()
+crimson = red
