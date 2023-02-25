@@ -24,3 +24,6 @@ print(dir(my_jeans))
 # don and remove the jeans
 my_jeans.put_on()
 print(my_jeans.wearing)
+
+my_jeans.take_off()
+print(my_jeans.wearing)
