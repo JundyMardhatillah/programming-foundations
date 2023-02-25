@@ -11,3 +11,7 @@ print('shirt'.upper())
 # examine IDs of different string objects
 print(id('shirt'))
 print(id('pants'))
+
+# examine an integer object
+print(id(1))
+print(dir(1))
