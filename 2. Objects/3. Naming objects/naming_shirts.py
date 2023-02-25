@@ -14,3 +14,9 @@ class shirt:
 # create one shirt with two names
 red = shirt()
 crimson = red
+
+# examine the red/crimson shirt
+print(id(red))
+print(id(crimson))
+print(red.clean)
+print(crimson.clean)
