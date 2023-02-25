@@ -37,3 +37,8 @@ print(id(red))
 print(id(crimson))
 print(crimson.clean)
 print(red.clean)
+
+# clean the red shirt
+red.make_clean()
+print(red.clean)
+print(crimson.clean)
