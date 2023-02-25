@@ -7,3 +7,7 @@ print(dir('shirt'))
 
 # use upper method on a string object
 print('shirt'.upper())
+
+# examine IDs of different string objects
+print(id('shirt'))
+print(id('pants'))
