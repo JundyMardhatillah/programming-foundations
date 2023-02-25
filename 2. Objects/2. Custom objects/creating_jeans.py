@@ -15,3 +15,8 @@ class jeans:
     def take_off(self):
         print('Taking off {}x{} {} jeans'.format(self.waist, self.length, self.color))
         self.wearing = False
+
+# create and examine a pair of jeans
+my_jeans = jeans(31,32,'blue')
+print(type(my_jeans))
+print(dir(my_jeans))
