@@ -15,3 +15,7 @@ print(id('pants'))
 # examine an integer object
 print(id(1))
 print(dir(1))
+
+# examine ID and attributes of functions
+print(id(id))
+print(dir(dir))
