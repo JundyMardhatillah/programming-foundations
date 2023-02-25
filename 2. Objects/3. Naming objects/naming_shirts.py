@@ -28,3 +28,6 @@ print(crimson.clean)
 
 # check that red and crimson are the same shirt
 print(red is crimson)
+
+# create a second shirt to be named crimson
+crimson = shirt()
