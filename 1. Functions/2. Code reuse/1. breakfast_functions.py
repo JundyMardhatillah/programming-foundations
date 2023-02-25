@@ -1,5 +1,6 @@
 """ ===| A Functional Breakfast |=== """
 
+# code reuse
 def mix_and_cook():
     print('Mixing the ingredients')
     print('Greasing the frying pan')
@@ -9,12 +10,12 @@ def mix_and_cook():
     print('Cooking the other side')
     
 def make_omelette():
-    mix_and_cook()
+    mix_and_cook() # code reuse
     omelette = 'a tasty omelette'
     return omelette
 
 def make_pancake():
-    mix_and_cook()
+    mix_and_cook() # code reuse
     pancake = 'a delicious pancake'
     return pancake
 

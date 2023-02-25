@@ -1,5 +1,6 @@
 """ ===| A Functional Breakfast |=== """
 
+# global variable
 cheese = 'cheddar'
 
 def mix_and_cook():
@@ -10,6 +11,7 @@ def mix_and_cook():
     print('Flipping it!')
     print('Cooking the other side')
 
+# local and global variables
 def make_omelette():
     global cheese
     cheese = 'swiss'

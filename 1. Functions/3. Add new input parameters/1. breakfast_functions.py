@@ -8,6 +8,7 @@ def mix_and_cook():
     print('Flipping it!')
     print('Cooking the other side')
 
+# add new input parameters for these breakfast functions
 def make_omelette(ingredient):
     mix_and_cook()
     omelette = 'a {} omelette'.format(ingredient)
