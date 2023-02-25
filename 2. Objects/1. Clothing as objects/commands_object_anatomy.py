@@ -4,3 +4,6 @@
 print('shirt')
 print(type('shirt'))
 print(dir('shirt'))
+
+# use upper method on a string object
+print('shirt'.upper())
