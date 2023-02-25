@@ -17,7 +17,7 @@ def make_omelette():
 
 def make_pancake():
     mix_and_cook()
-    pancake = 'a {} pancake'.format(ingredient)
+    pancake = 'a {} pancake'.format(cheese)
     return pancake
 
 def fancy_omelette(*ingredients):
