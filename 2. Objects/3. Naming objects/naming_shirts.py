@@ -20,3 +20,8 @@ print(id(red))
 print(id(crimson))
 print(red.clean)
 print(crimson.clean)
+
+# spill juice on the red/crimson shirt
+red.make_dirty()
+print(red.clean)
+print(crimson.clean)
