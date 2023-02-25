@@ -11,6 +11,7 @@ def mix_and_cook():
     print('Cooking the other side')
 
 def make_omelette():
+    cheese = 'swiss'
     mix_and_cook()
     omelette = 'a {} omelette'.format(cheese)
     return omelette
