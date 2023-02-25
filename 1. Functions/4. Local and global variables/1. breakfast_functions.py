@@ -26,3 +26,9 @@ def fancy_omelette(*ingredients):
     mix_and_cook()
     omelette = 'a fancy omelette with {} ingredients'.format(len(ingredients))
     return omelette
+
+# make some cheesy foods
+print(cheese)
+print(make_omelette())
+print(cheese)
+print(make_pancake())
