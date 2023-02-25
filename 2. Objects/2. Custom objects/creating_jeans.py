@@ -11,3 +11,7 @@ class jeans:
     def put_on(self):
         print('Putting on {}x{} {} jeans'.format(self.waist, self.length, self.color))
         self.wearing = True
+
+    def take_off(self):
+        print('Taking off {}x{} {} jeans'.format(self.waist, self.length, self.color))
+        self.wearing = False
