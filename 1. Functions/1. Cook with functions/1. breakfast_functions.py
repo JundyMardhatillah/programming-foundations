@@ -1,5 +1,6 @@
 """ ===| A Functional Breakfast |=== """
 
+# cook with functions
 def make_omelette():
     print('Mixing the ingredients')
     print('Pouring the mixture into a frying pan')
