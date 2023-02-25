@@ -1,5 +1,7 @@
 """ ===| A Functional Breakfast |=== """
 
+cheese = 'cheddar'
+
 def mix_and_cook():
     print('Mixing the ingredients')
     print('Greasing the frying pan')
