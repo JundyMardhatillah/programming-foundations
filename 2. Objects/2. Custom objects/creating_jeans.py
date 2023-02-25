@@ -7,3 +7,7 @@ class jeans:
         self.length = length
         self.color = color
         self.wearing = False
+
+    def put_on(self):
+        print('Putting on {}x{} {} jeans'.format(self.waist, self.length, self.color))
+        self.wearing = True
