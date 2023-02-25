@@ -20,3 +20,7 @@ class jeans:
 my_jeans = jeans(31,32,'blue')
 print(type(my_jeans))
 print(dir(my_jeans))
+
+# don and remove the jeans
+my_jeans.put_on()
+print(my_jeans.wearing)
