@@ -9,3 +9,8 @@ print(id(closet))
 closet.remove('hat')
 print(closet)
 print(id(closet))
+
+# create a poor choice of words
+words = "You're wearing that"
+print(words)
+print(id(words))
