@@ -14,3 +14,8 @@ print(id(closet))
 words = "You're wearing that"
 print(words)
 print(id(words))
+
+# add more to the phrase
+words = words + ' because you look great!'
+print(words)
+print(id(words))
